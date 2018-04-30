@@ -1,0 +1,36 @@
+[{
+  "name": "Maxi",
+  "telephone": "555-342-6627",
+  "email": "resourcehumaine@maxi.ca",
+  "city": "Là où il fait bon vivre",
+  "address": "Sortie nord du rond point",
+  "UserId": 2
+},{
+  "name": "SOS peintre",
+  "telephone": "555-342-6627",
+  "email": "joblo@gmail.com",
+  "city": "Toute dans Baie",
+  "address": "envoie moi un email",
+  "UserId": 2
+},{
+  "name": "Car Gilles",
+  "telephone": "555-342-6627",
+  "email": "eatpraylove@cargill.ca",
+  "city": "Montréal Nord ???",
+  "address": "555 route industrielle",
+  "UserId": 2
+},{
+  "name": "Bourdage",
+  "telephone": "555-342-6627",
+  "email": "jean-boc@fermebourdage.gaspesie",
+  "city": "Bonaventure",
+  "address": "132, tourne au viaduc où y'a la pancarte de la ferme",
+  "UserId": 2
+},{
+  "name": "Saute mouton",
+  "telephone": "555-342-6627",
+  "email": "rh@sautemouton.io",
+  "city": "Cloud city",
+  "address": "Look up",
+  "UserId": 6
+}]

@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Caissier Chez Maxi",
+    "EmployerId": 1,
+    "dateOfHiring": "Thu May 05 2018 09:24:20 GMT-0400 (EDT)",
+    "salary" : "Minimum",
+    "hoursType": "full",
+    "type": "seasonal",
+    "details": "Opérer la caisse, compter la caisse, yo soit responsable"
+  },
+  {
+    "title": "Peintre étudiant",
+    "EmployerId": 2,
+    "employer": "SOS peintre",
+    "dateOfHiring": "Thu May 15 2018 09:24:20 GMT-0400 (EDT)",
+    "salary" : "tu peins vite ?",
+    "hoursType": "part time",
+    "type": "student",
+    "details": "Tu peins, t'arrête pas, tu vends des contrats pas cher"
+  },
+  {
+    "title": "Machiniste opérateur d'assemblage composites en usine",
+    "EmployerId": 3,
+    "dateOfHiring": "Thu Jul 02 2018 09:24:20 GMT-0400 (EDT)",
+    "salary" : "30 000$ / année max",
+    "hoursType": "custom",
+    "nbHours": "75",
+    "details": "Voir titre"
+  },
+  {
+    "title": "Cueilleur de fraises",
+    "EmployerId": 4,
+    "dateOfHiring": "Thu Jun 15 2018 09:24:20 GMT-0400 (EDT)",
+    "salary" : "Minimum + bonus au panier",
+    "hoursType": "custom",
+    "nbHours": "50",
+    "details": "Vite cueille des fraises"
+  },
+  {
+    "title": "Programmeur/Analyste",
+    "EmployerId": 5,
+    "dateOfHiring": "Thu Oct 15 2018 09:24:20 GMT-0400 (EDT)",
+    "salary" : "45 000$ /an",
+    "hoursType": "full",
+    "details": "Cloud++, Assembleur de nuages"
+  }
+]

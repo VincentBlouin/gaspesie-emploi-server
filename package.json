@@ -1,0 +1,45 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "./node_modules/nodemon/bin/nodemon.js src/app.js --exec 'npm run lint && node'",
+    "lint": "./node_modules/.bin/eslint **/*.js",
+    "seed": "NODE_ENV=development node ./src/seed"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt-nodejs": "^0.0.3",
+    "body-parser": "^1.18.2",
+    "compression": "^1.7.2",
+    "cors": "^2.8.4",
+    "crypto": "^1.0.1",
+    "eslint": "^4.18.1",
+    "express": "^4.16.2",
+    "express-fileupload": "^0.4.0",
+    "imagemagick": "^0.1.3",
+    "joi": "^13.1.2",
+    "jsonwebtoken": "^8.2.0",
+    "morgan": "^1.9.0",
+    "nodemailer": "^4.6.2",
+    "nodemailer-mock-transport": "^1.3.0",
+    "@sendgrid/mail": "^6.2.1",
+    "nodemon": "^1.17.1",
+    "passport": "^0.4.0",
+    "passport-jwt": "^3.0.1",
+    "sequelize": "^4.37.6",
+    "sprintf-js": "^1.1.1",
+    "sqlite3": "^4.0.0",
+    "uuid": "^3.2.1"
+  },
+  "devDependencies": {
+    "eslint-config-standard": "^11.0.0",
+    "eslint-plugin-import": "^2.9.0",
+    "eslint-plugin-node": "^6.0.1",
+    "eslint-plugin-promise": "^3.6.0",
+    "eslint-plugin-standard": "^3.0.1"
+  }
+}

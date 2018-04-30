@@ -1,0 +1,56 @@
+[
+  {
+    "email": "a1@gaspesiejob.ca",
+    "password": "12345678",
+    "status": "admin",
+    "firstName": "Hugo",
+    "lastName": "Séguin",
+    "locale": "fr"
+  },
+  {
+    "email": "e1@gaspesiejob.ca",
+    "password": "12345678",
+    "status": "recruiter",
+    "firstName": "George",
+    "lastName": "Slounavoukos",
+    "locale": "fr"
+  },
+  {
+    "email": "j1@gaspesiejob.ca",
+    "password": "12345678",
+    "status": "recruitee",
+    "firstName": "Jasmin",
+    "lastName": "Desrosiers",
+    "telephone": "555-333-6421",
+    "locale": "fr",
+    "candidateProfile": "2 ans d'expérience en service à la clientèle. Secondaire 5."
+  },
+  {
+    "email": "j2@gaspesiejob.ca",
+    "password": "12345678",
+    "status": "recruitee",
+    "firstName": "Mélanie",
+    "lastName": "姚",
+    "telephone": "555-333-6421",
+    "locale": "fr",
+    "candidateProfile": "Paqueteuse de boîte. Étalage de produits. Livraison de paquets"
+  },
+  {
+    "email": "j3@gaspesiejob.ca",
+    "password": "12345678",
+    "status": "recruitee",
+    "firstName": "الأَبْجَدِيَّة",
+    "lastName": "Arsenault",
+    "telephone": "555-333-6421",
+    "locale": "fr",
+    "candidateProfile": "Code en sale et soucis du code propre."
+  },
+  {
+    "email": "e2@gaspesiejob.ca",
+    "password": "12345678",
+    "status": "recruiter",
+    "firstName": "Avril",
+    "lastName": "Champagne",
+    "locale": "fr"
+  }
+]
